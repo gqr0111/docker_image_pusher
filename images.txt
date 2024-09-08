@@ -1,5 +1,7 @@
-docker.io/gitlab/gitlab-ce:17.1.6-ce.0
-docker.io/bitnami/postgresql:14.13.0
+docker.io/bitnami/minio:2024.8.29
+
+# docker.io/gitlab/gitlab-ce:17.1.6-ce.0
+# docker.io/bitnami/postgresql:14.13.0
 # docker.io/busybox:1.36.1
 # registry.k8s.io/ingress-nginx/controller:v1.11.2
 # registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
