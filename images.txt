@@ -5,7 +5,7 @@
 # registry.gitlab.com/gitlab-org/build/cng/gitlab-toolbox-ce:v17.3.1
 # registry.gitlab.com/gitlab-org/build/cng/gitlab-webservice-ce:v17.3.1
 
-quay.io/minio/minio:RELEASE.2024-09-09T16-59-28Z.fips
+quay.io/minio/minio:RELEASE.2024-09-09T16-59-28Z
 ### docker.io/bitnami/minio:2024.8.29
 
 # docker.io/gitlab/gitlab-ce:17.1.6-ce.0
