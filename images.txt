@@ -1,6 +1,7 @@
+registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v17.3.1
 # registry.gitlab.com/gitlab-org/build/cng/gitaly:v17.3.1
-registry.gitlab.com/gitlab-org/build/cng/gitlab-toolbox-ce:v17.3.1
-registry.gitlab.com/gitlab-org/build/cng/gitlab-webservice-ce:v17.3.1
+# registry.gitlab.com/gitlab-org/build/cng/gitlab-toolbox-ce:v17.3.1
+# registry.gitlab.com/gitlab-org/build/cng/gitlab-webservice-ce:v17.3.1
 
 # docker.io/minio/minio:RELEASE.2024-08-29T01-40-52Z
 ### docker.io/bitnami/minio:2024.8.29
