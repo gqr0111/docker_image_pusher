@@ -1,4 +1,6 @@
-docker.io/sonatype/nexus3:3.72.0
+
+docker.io/sonatype/nexus3:3.70.0
+# docker.io/sonatype/nexus3:3.72.0
 
 # registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v17.3.1
 # registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v14.38.0
