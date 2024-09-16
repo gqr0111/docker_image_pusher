@@ -1,4 +1,13 @@
-docker.io/kiwigrid/k8s-sidecar:1.27.6
+docker.io/goharbor/harbor-portal:v2.11.1
+docker.io/goharbor/harbor-core:v2.11.1
+docker.io/goharbor/harbor-jobservice:v2.11.1
+docker.io/goharbor/registry-photon:v2.11.1
+docker.io/goharbor/harbor-registryctl:v2.11.1
+docker.io/goharbor/trivy-adapter-photon:v2.11.1
+docker.io/goharbor/harbor-exporter:v2.11.1
+
+
+# docker.io/kiwigrid/k8s-sidecar:1.27.6
 # docker.io/jenkins/jenkins:2.476-jdk17
 
 # docker.io/sonatype/nexus3:3.64.0
