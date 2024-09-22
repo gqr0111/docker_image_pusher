@@ -1,10 +1,12 @@
-docker.io/goharbor/harbor-portal:v2.11.1
-docker.io/goharbor/harbor-core:v2.11.1
-docker.io/goharbor/harbor-jobservice:v2.11.1
-docker.io/goharbor/registry-photon:v2.11.1
-docker.io/goharbor/harbor-registryctl:v2.11.1
-docker.io/goharbor/trivy-adapter-photon:v2.11.1
-docker.io/goharbor/harbor-exporter:v2.11.1
+docker.io/sonarqube:9.9.6-community
+
+# docker.io/goharbor/harbor-portal:v2.11.1
+# docker.io/goharbor/harbor-core:v2.11.1
+# docker.io/goharbor/harbor-jobservice:v2.11.1
+# docker.io/goharbor/registry-photon:v2.11.1
+# docker.io/goharbor/harbor-registryctl:v2.11.1
+# docker.io/goharbor/trivy-adapter-photon:v2.11.1
+# docker.io/goharbor/harbor-exporter:v2.11.1
 
 
 # docker.io/kiwigrid/k8s-sidecar:1.27.6
