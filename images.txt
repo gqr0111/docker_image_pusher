@@ -1,4 +1,5 @@
-docker.io/sonarqube:9.9.6-community
+docker.io/sonarqube:10.6.0-community
+# docker.io/sonarqube:9.9.6-community
 
 # docker.io/goharbor/harbor-portal:v2.11.1
 # docker.io/goharbor/harbor-core:v2.11.1
