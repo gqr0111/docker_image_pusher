@@ -1,4 +1,9 @@
-docker.io/sonarqube:10.6.0-community
+docker.io/docker:27.3.1-dind
+docker.io/maven:3.9.9-sapmachine-17
+docker.io/sonarsource/sonar-scanner-cli:11.1
+
+
+# docker.io/sonarqube:10.6.0-community
 # docker.io/sonarqube:9.9.6-community
 
 # docker.io/goharbor/harbor-portal:v2.11.1
