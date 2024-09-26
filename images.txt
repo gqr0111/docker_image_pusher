@@ -1,4 +1,5 @@
-docker.io/opensearchproject/opensearch:2
+docker.io/opensearchproject/opensearch-dashboards:2
+# docker.io/opensearchproject/opensearch:2
 # docker.io/moby/buildkit:v0.15.2
 # docker.io/jenkins/inbound-agent:jdk17
 
