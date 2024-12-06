@@ -1,4 +1,4 @@
-docker.io/opensearchproject/opensearch-dashboards:2
+# docker.io/opensearchproject/opensearch-dashboards:2
 # docker.io/opensearchproject/opensearch:2
 # docker.io/moby/buildkit:v0.15.2
 # docker.io/jenkins/inbound-agent:jdk17
@@ -56,6 +56,7 @@ docker.io/opensearchproject/opensearch-dashboards:2
 # registry.k8s.io/kube-scheduler:v1.31.0
 # registry.k8s.io/kube-proxy:v1.31.0
 # registry.k8s.io/coredns/coredns:v1.11.1
+registry.k8s.io/coredns/coredns:v1.11.3
 # registry.k8s.io/pause:3.10
 # registry.k8s.io/etcd:3.5.15-0
 
