@@ -1,10 +1,14 @@
+
+docker.io/bitnami/mongodb:8.0.4-debian-12-r3
+docker.io/bitnami/mongodb-exporter:0.43.1-debian-12-r3
+
 # docker.io/easysoft/zentao:latest
 # docker.io/bitnami/mysql:8.4.3
 # docker.io/kubesphere/ks-installer:v3.4.1
 # docker.io/opensearchproject/opensearch-dashboards:2
 # docker.io/opensearchproject/opensearch:2
-docker.io/opensearchproject/opensearch-dashboards:2.8.0
-docker.io/opensearchproject/opensearch:2.8.0
+# docker.io/opensearchproject/opensearch-dashboards:2.8.0
+# docker.io/opensearchproject/opensearch:2.8.0
 # docker.io/moby/buildkit:v0.15.2
 # docker.io/jenkins/inbound-agent:jdk17
 
